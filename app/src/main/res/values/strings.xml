@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExamenAPP7S21</string>
+    <string name="p1Exam">Examen</string>
+    <string name="txtNpregunta">Preguntas aleatorias</string>
+    <string name="txtpregunta">Pregunta 1. Quien es el descubridor de América</string>
+    <string name="rdbtnOp1">Herman Cortes</string>
+    <string name="rdbtnOp2">Cristobal Colon</string>
+    <string name="rdbtnOp3">Pancho Villa</string>
+    <string name="btnsiguiente">Siguiente</string>
+    <string name="btnsalir">Salir</string>
+</resources>
